@@ -1,2 +1,3 @@
-# ARI5121_SpeechProject_Michael_Vella_code
-Code repository for the University of Malta (UOM) ARI5121 (Natural Language Processing) study-unit speech assignment.
+# ARI5121 (Applied NLP) Speech Assignment
+
+To finalise README.md at the end of the project.
