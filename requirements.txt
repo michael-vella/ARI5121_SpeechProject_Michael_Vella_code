@@ -1,4 +1,5 @@
 diffusers[torch]
 transformers
 librosa
-soundfile
+jupyter
+matplotlib
